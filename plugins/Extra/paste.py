@@ -44,7 +44,7 @@ async def pasty(client, message):
     elif message.reply_to_message:
         message_s = message.reply_to_message.text
     else:
-        await message.reply("sorry no in put. please repy to a text or /paste with text")
+        await message.reply("Sorry no input. please repy to a text or /paste with text")
     if not tex_t:
         if not message.reply_to_message:
             await pablo.edit("`Only text and documents are supported.`")
@@ -62,5 +62,5 @@ async def pasty(client, message):
     p_link = x["url"]
     p_raw = x["raw"]
 
-    pasted = f"**Successfully Paste to Pasty**\n\n**Link:** • [Click here]({p_link})\n\n**Raw Link:** • [Click here]({p_raw})"
+    pasted = f"**Successfully Pasted to Pasty**\n\n**Link:** • [Click here]({p_link})\n\n**Raw Link:** • [Click here]({p_raw})"
     await pablo.edit(pasted, disable_web_page_preview=True)
