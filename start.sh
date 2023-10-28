@@ -8,5 +8,5 @@ else
 fi
 cd /TG_BOTZ 
 pip3 install -U -r requirements.txt
-echo "Starting TG_BOTZ 😎...."
+echo "Starting All Movies Link Bot 😎...."
 python3 bot.py    
