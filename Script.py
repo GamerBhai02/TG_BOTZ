@@ -223,10 +223,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>══════════════════
 🗂 {file_name}
 ═══════════════════ 
-𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐇𝐄𝐑𝐄 👇
-╔══════════════════╗         
-    <a href="https://t.me/+QgSl55NlTiI0NDhl">🔱 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔱</a>
-╚══════════════════╝</b>"""
+𝐉𝐎𝐈𝐍 𝐇𝐄𝐑𝐄 :- <a href="https://t.me/+QgSl55NlTiI0NDhl">All Movies Link</a></b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
